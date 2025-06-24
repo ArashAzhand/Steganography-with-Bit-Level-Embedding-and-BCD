@@ -32,7 +32,9 @@ The main idea is to hide a secret image (`IUT.jpg`) inside a cover image (`Cover
 
 ![Cover_Image](https://github.com/user-attachments/assets/58147dbe-b582-4626-a5c5-e6879018143f)
 - Original cover image
+  
 ![stego_image](https://github.com/user-attachments/assets/2e02ddcf-015e-48c2-a3e2-60d45ead9d01)
 - Stego image
+
 ![extracted_image](https://github.com/user-attachments/assets/a62a9481-a0cf-4a9b-8729-4be42acc76cb)
 - Extracted hidden image
